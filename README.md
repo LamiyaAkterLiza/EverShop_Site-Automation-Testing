@@ -20,7 +20,7 @@
 - Conducted **Automation Testing** using **Selenium library**. 
 
 ### **Automation Testing Via Webdriverio**  
-- Developed **automated test scripts** using **JS**.  
+- Developed **automated test scripts** using **(node.js)**.  
 - Implemented **test cases** for search, add product to cart functionality.  
 - Validated **dynamic search suggestions** and **filtered results**.  
 - Performed **cross-browser testing** (Chrome).
@@ -30,8 +30,7 @@
 - Generated an **automation test report**.  
 
 ## 🚀 How to Run Tests  
-1. Open **Evershop** [Website](https://demo.evershop.io/).  
-2. Perform search, apply filters, cart management and verify results.  
-3. Use **Postman** to send API requests for search and add a product to the cart.  
-4. Run **Automation scripts** to validate search results and add product to cart.  
+**Automation Testing Via Webdriverio**
+1. For Run test cases use the command --> **npm run wdio**
+3. If run generates an Allure report for result analysis, then use the command --> **npm run getReport**
  
